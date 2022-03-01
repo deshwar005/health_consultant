@@ -1,0 +1,150 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+
+
+.header{
+	background:skyblue;
+}
+.nav-bar{
+	padding-top: 20px !important;
+}
+.nav-item{
+	margin-left: 40px;
+	margin-bottom: 10px;
+}
+.nav-link
+{
+	
+	color: #fff !important;
+	font-weight: bold;
+	font-weight: 100;
+	font-size: 12px !important;
+	padding: 0 0 5px 0 !important;
+    display: unset !important;
+}
+.navbar-brand img{
+	width:110px;
+}
+.span{
+	color: #fff !important;
+	font-size: 40px;
+}
+.active-home{
+	border-bottom: 2px solid #fff;
+}
+.nav-link:hover{
+
+border-bottom: 2px solid #fff;
+}
+.banner{
+	margin-top: 8%;
+	color: #fff ;
+
+}
+.banner h1{
+	margin:  80px 0 50px;
+	font-weight: 600;
+	font-size: 60px;
+}
+.banner img{
+	max-height: 500px;
+}
+.banner a{
+	padding: 12px;
+	width:150px;
+	display:inline-block;
+	background:#cf03fc;
+	text-decoration: none !important;
+	color:#fff ;
+	border:2px solid #fff ;
+	border-radius: 5px;
+	text-align: center;
+	margin-top: 30px;
+
+
+	font-weight: bold;
+	font-size: 14px;
+    margin-bottom: 30px;
+   
+}
+.btn1{
+	background:#c7c8d9;
+	text-decoration: none !important;
+	color:  #fff;
+	border-radius: 2px;
+
+	border: 2px solid   #fff  ;
+	padding: 6px;
+}
+.btn1:hover{
+	background:  #fff ;
+	color: #cf03fc;
+}
+
+
+
+.banner a:hover{
+	background:  #fff ;
+	color: #cf03fc;
+}
+
+
+/********/
+.bk{
+	background-color:azure;
+	margin-bottom: 20px;
+}
+	
+.docimg img{
+	width: 200px;
+	border-radius: 10px;
+	box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+	margin: 10px;
+}
+
+.cards{
+	border: 2px solid white;
+	border-radius: 10px;
+	box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    padding: 10px;
+}
+.detail p{
+margin: 10px 30px;
+font-size: large;
+
+}
+.contbtn{
+	margin: 10px 30px;
+	background-color: skyblue;
+	color: white;
+
+	padding: 10px;
+	margin-bottom: 2px;
+	border-radius: 8px;
+}
+.heading{
+	margin: 20px 10px;
+	font-family: 'Montserrat', sans-serif;
+}
+.detail h5{
+	margin: 10px 30px;;
+
+}
+.contbtn:hover{
+	background-color: #c7c8d9;
+	text-decoration: none;
+	color: black;
+}
+
+.secimg img{
+	width: 230px;
+}
